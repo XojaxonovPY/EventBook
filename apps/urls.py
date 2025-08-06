@@ -17,5 +17,5 @@ urlpatterns += [
     path('list/user/event/', UserEventListAPIView.as_view()),
     path('list/event/', EventListAPIView.as_view()),
     path('event/<int:pk>/', EventRetrieveAPIView.as_view()),
-    path('user/register/evets/list', RegisterEventListAPIView.as_view()),
+    path('user/register/event/list/', RegisterEventListAPIView.as_view()),
 ]
