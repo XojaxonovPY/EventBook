@@ -18,11 +18,11 @@ Foydalanuvchilar:
 
 ## ⚙️ Texnologiyalar
 
-- Python 3.11+
+- Python 3.12+
 - Django 4.x
 - Django REST Framework
 - djangorestframework-simplejwt (JWT autentifikatsiya uchun)
-- SQLite (yoki PostgreSQL)
+- SQLite 
 - drf-spectacular (Swagger uchun)
 
 ---
@@ -106,7 +106,7 @@ Authorization: Bearer <access_token>
 
 ## 👨‍💻 Muallif
 
-- Ism: Joker Xojaxonov
+- Ism: G'ayrat Xojaxonov
 - GitHub: [https://github.com/XojaxonovPY](https://github.com/XojaxonovPY)
 
 ---
